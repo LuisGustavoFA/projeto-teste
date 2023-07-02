@@ -1,0 +1,1 @@
+console.log("Acessando banco de dados...");
